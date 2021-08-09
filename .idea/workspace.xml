@@ -2,105 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1070bc5-4257-4885-bcdb-7b5428da90ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbc.3.10.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbc.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbc.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbcSolver.3.10.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbcSolver.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbcSolver.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCbcSolver.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCgl.1.10.2.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCgl.1.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCgl.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCgl.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClp.1.14.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClp.1.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClp.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClp.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClpSolver.1.14.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClpSolver.1.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClpSolver.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libClpSolver.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCoinUtils.3.11.2.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCoinUtils.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCoinUtils.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libCoinUtils.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsi.1.13.4.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsi.1.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsi.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsi.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCbc.3.10.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCbc.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCbc.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCbc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiClp.1.14.3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiClp.1.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiClp.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiClp.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCommonTests.1.13.4.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCommonTests.1.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCommonTests.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libOsiCommonTests.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_bad_any_cast_impl.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_bad_optional_access.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_bad_variant_access.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_base.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_city.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_civil_time.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_debugging_internal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_demangle_internal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_dynamic_annotations.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_examine_stack.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_failure_signal_handler.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_graphcycles_internal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_hash.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_hashtablez_sampler.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_int128.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_leak_check.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_leak_check_disable.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_malloc_internal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_optional.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_raw_hash_set.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_scoped_set_env.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_spinlock_wait.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_stacktrace.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_str_format_internal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_strings.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_strings_internal.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_symbolize.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_synchronization.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_throw_delegate.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_time.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libabsl_time_zone.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libgflags.2.2.2.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libgflags.2.2.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libgflags.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libgflags_nothreads.2.2.2.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libgflags_nothreads.2.2.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libgflags_nothreads.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libglog.0.4.0.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libglog.0.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libglog.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libjniortools.jnilib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libortools.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libprotobuf-lite.3.10.0.0.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libprotobuf-lite.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libprotobuf.3.10.0.0.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libprotobuf.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libprotoc.3.10.0.0.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lib/libprotoc.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/AbstractCpOpt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/pom.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksMIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/model/AlgorithmResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/model/StatusResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/test/java/utils/CpModelUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/test/java/utils/LinearSolverUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/AbstractCpOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/AbstractCpOpt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MPSolverExamples/LinearProgrammingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MPSolverExamples/LinearProgrammingExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,30 +24,132 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+            <state relative-caret-position="221">
+              <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksCP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/utils/CpModelUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="368" column="25" selection-start-line="368" selection-start-column="23" selection-end-line="368" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/AbstractCpOpt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="268" column="26" selection-start-line="268" selection-start-column="11" selection-end-line="268" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6139#6140#0" expanded="true" />
+                <element signature="e#6196#6197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/model/StatusResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/model/AlgorithmResultEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/test/java/utils/CpModelUtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/test/java/utils/LinearSolverUtilTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+              <caret line="38" column="5" selection-start-line="21" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tool</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -142,7 +157,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtilTest.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtil.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksCP.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksMIP.java" />
+        <option value="$PROJECT_DIR$/java/src/test/java/utils/LinearSolverUtilTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/java/src/test/java/utils/CpModelUtilTest.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/AbstractCpOpt.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/model/StatusResult.java" />
       </list>
     </option>
   </component>
@@ -158,12 +182,23 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ortools_utils" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-2560" />
-    <option name="y" value="-276" />
+    <option name="y" value="-226" />
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
@@ -172,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,35 +249,46 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="MPSolverExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ortools_utils" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ortools_utils" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/main/java/utils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MPSolverExamples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src/main/java/utils" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,9 +302,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MultipleKnapsacksMIP">
     <configuration name="LinearProgrammingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MPSolverExamples.LinearProgrammingExample" />
+      <module name="ortools_utils" />
+      <option name="VM_PARAMETERS" value="-Xss2048k" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MPSolverExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleKnapsacksCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MPSolverExamples.MultipleKnapsacksCP" />
       <module name="ortools_utils" />
       <extension name="coverage">
         <pattern>
@@ -269,11 +330,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultipleKnapsacksMIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MPSolverExamples.MultipleKnapsacksMIP" />
+      <module name="ortools_utils" />
+      <option name="VM_PARAMETERS" value="-Xss6144k" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MPSolverExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSolverUtilTest.minIntToLinear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ortools_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.LinearSolverUtilTest" />
+      <option name="METHOD_NAME" value="minIntToLinear" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xss2048k" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSolverUtilTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ortools_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.LinearSolverUtilTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MultipleKnapsacksMIP" />
+      <item itemvalue="Application.MultipleKnapsacksCP" />
+      <item itemvalue="Application.LinearProgrammingExample" />
+      <item itemvalue="JUnit.LinearSolverUtilTest.minIntToLinear" />
+      <item itemvalue="JUnit.LinearSolverUtilTest.test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleKnapsacksMIP" />
         <item itemvalue="Application.LinearProgrammingExample" />
+        <item itemvalue="Application.MultipleKnapsacksCP" />
+        <item itemvalue="JUnit.LinearSolverUtilTest.test" />
+        <item itemvalue="JUnit.LinearSolverUtilTest.minIntToLinear" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -285,62 +408,289 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589527041557</updated>
-      <workItem from="1589527043223" duration="202000" />
+      <workItem from="1589527043223" duration="739000" />
+      <workItem from="1589532220121" duration="4021000" />
+      <workItem from="1589546673174" duration="142000" />
+      <workItem from="1590029236163" duration="523000" />
+      <workItem from="1590140918362" duration="424000" />
+      <workItem from="1590141601769" duration="2593000" />
+      <workItem from="1590670398884" duration="4024000" />
+      <workItem from="1590745893933" duration="861000" />
+      <workItem from="1590994664304" duration="9769000" />
+      <workItem from="1591843428775" duration="1751000" />
+      <workItem from="1591881248135" duration="3976000" />
+      <workItem from="1592796523190" duration="3548000" />
+      <workItem from="1593425419430" duration="8203000" />
+      <workItem from="1593827819667" duration="118000" />
+      <workItem from="1594016510374" duration="1533000" />
+      <workItem from="1594879841789" duration="4627000" />
+      <workItem from="1594884904516" duration="2771000" />
+      <workItem from="1602658856694" duration="2293000" />
+      <workItem from="1617703162959" duration="164000" />
+      <workItem from="1618295397115" duration="1616000" />
+      <workItem from="1628481029639" duration="532000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.02 at 17h 22m 37s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.02 at 17h 22m 48s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.04 at 21h 25m 33s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.05 at 16h 39m 37s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.05 at 16h 40m 02s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.05 at 16h 40m 59s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.05 at 16h 41m 05s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.29 at 18h 10m 39s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.29 at 18h 11m 14s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinearSolverUtilTest_test - 2020.06.29 at 18h 11m 32s.xml">
+      <configuration name="LinearSolverUtilTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202000" />
+    <option name="totallyTimeSpent" value="54228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-276" width="2560" height="1440" extended-state="0" />
+    <frame x="-2560" y="-226" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15289913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="JProfiler" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39638555" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19927007" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32771084" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="bottom" id="Statistic" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32962668" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="9" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/test/java/utils/LinearSolverUtilTest.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksMIP.java</url>
+          <line>65</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksMIP.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ortools_utils$MultipleKnapsacksMIP.ic" NAME="MultipleKnapsacksMIP Coverage Results" MODIFIED="1594883430112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MPSolverExamples.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>IntStream.range(0, s.size()).mapToDouble(i -&gt; 1).toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtilTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/oliviercailloux/google-or-tools/7.4.2/google-or-tools-7.4.2.jar!/com/google/ortools/linearsolver/MPSolverCommonParameters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/oliviercailloux/google-or-tools/7.4.2/google-or-tools-7.4.2.jar!/com/google/ortools/linearsolver/MPSolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="169" column="57" selection-start-line="169" selection-start-column="39" selection-end-line="169" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/oliviercailloux/google-or-tools/7.4.2/google-or-tools-7.4.2.jar!/com/google/ortools/linearsolver/MPSolverParameters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="368" column="27" selection-start-line="368" selection-start-column="16" selection-end-line="368" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/project/ice-strategy/src/main/java/scheduling/strategy/Scheduling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="361" column="21" lean-forward="true" selection-start-line="361" selection-start-column="21" selection-end-line="361" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/oliviercailloux/google-or-tools/7.7.7810/google-or-tools-7.7.7810.jar!/com/google/ortools/sat/IntVar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+          <folding>
+            <element signature="e#2863#2864#0" expanded="true" />
+            <element signature="e#2935#2936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksMIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/oliviercailloux/google-or-tools/7.7.7810/google-or-tools-7.7.7810.jar!/com/google/ortools/sat/IntervalVar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        <state relative-caret-position="629">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/test/java/utils/LinearSolverUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="5" selection-start-line="21" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/test/java/utils/CpModelUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/LinearProgrammingExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        <state relative-caret-position="221">
+          <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/utils/CpModelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="368" column="25" selection-start-line="368" selection-start-column="23" selection-end-line="368" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/utils/LinearSolverUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/MPSolverExamples/MultipleKnapsacksCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/model/AlgorithmResultEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/AbstractCpOpt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="268" column="26" selection-start-line="268" selection-start-column="11" selection-end-line="268" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6139#6140#0" expanded="true" />
+            <element signature="e#6196#6197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/model/StatusResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -407,6 +757,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -18,10 +18,10 @@ public class LinearProgrammingExample {
     public static void main(String[] args) throws Exception {
         //Declare the solver
         MPSolver solver = new MPSolver(
-                "LinearProgrammingExample", MPSolver.OptimizationProblemType.CBC_MIXED_INTEGER_PROGRAMMING);
+                "LinearProgrammingExample", MPSolver.OptimizationProblemType.BOP_INTEGER_PROGRAMMING);
 
         double infinity = Double.POSITIVE_INFINITY;
-        IntStream.range(0, 1).forEach(System.out::println);
+
         // v1,v2是 非负的连续变量
         MPVariable v1 = solver.makeNumVar(0.0, infinity, "v1");
         System.out.println(v1.lb());
@@ -53,7 +53,7 @@ public class LinearProgrammingExample {
         solver.setHint(new MPVariable[]{v1, v2, v3, v4}, new double[]{0.0, 0.0, 0.0, 0.0});
 
         System.out.println(solver.exportModelAsLpFormat());
-        solver.enableOutput();
+//        solver.enableOutput();
 
         MPSolver.ResultStatus resultStatus = solver.solve();
         // Check that the problem has an optimal solution.
@@ -72,8 +72,6 @@ public class LinearProgrammingExample {
         System.out.println("Number of constraints = " + solver.numConstraints());
         System.out.println("bestBound = " + solver.objective().bestBound());
         System.out.println("wallTime = " + solver.wallTime());
-
-
 
     }
 }
